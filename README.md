@@ -1,1 +1,1 @@
-# Trilha JS Developer - Pokedex
+Creating a Modal with Pokemon Details
